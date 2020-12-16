@@ -7,3 +7,8 @@ Flappy Bird is a mobile game developed by Vietnamese video game artist and progr
 
 The game was released in May 2013 but Flappy Bird was removed from both the App Store and Google Play by its creator on February 10, 2014.
 
+## Sample Figures
+
+![sample](sample.png)
+
+![sample1](sample1.png)
